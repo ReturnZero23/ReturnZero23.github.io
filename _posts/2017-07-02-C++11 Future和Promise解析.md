@@ -1,6 +1,5 @@
 ---
-　　layout: default
-　　title: 你好，世界
+layout: default
 ---
 # C++11 Future和Promise解析
 
